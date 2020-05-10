@@ -1,3 +1,0 @@
-[console_scripts]
-data = data.__main__:main
-
